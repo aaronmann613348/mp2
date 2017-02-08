@@ -1,0 +1,17 @@
+meow. What part of the MP would you like to solve? 
+1) 1.1 
+2) 2.1
+Good choice... What map would you like to play on? 
+1) Keren 
+2) Narvik 
+3) Sevastopol 
+4) Smolensk 
+5) Westerplatte 
+
+Choose a mode 
+ 1: Minimax vs. minimax
+ 2: Alpha-beta vs. alpha-beta
+ 3: Minimax vs. alpha-beta (minimax goes first)
+ 4: Alpha-beta vs. minimax (alpha-beta goes first)
+ 5: Human vs minimax
+
